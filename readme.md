@@ -1,3 +1,3 @@
 ## Landing Page with Dynamic Background, made with Pure JS and HTML/CSS
 
-## Designed with Figma
+## Designed using Figma
